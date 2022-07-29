@@ -129,7 +129,7 @@ matplotlib==3.3.2
 mayavi==4.7.2
 mercantile==1.1.6
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 mizani==0.7.1
 multidict==5.0.2
 munch==2.5.0
